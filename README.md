@@ -5,7 +5,9 @@ Esta calculadora foi escrita em python e automatizada em Shell.
 -Um script feito em Shell, nada mais é do que o executável da calculadora  
 -Contém uma série de comandos que chamam e executam o arquivo python, onde a calculadora foi escrita.  
 ## Arquivo .py
--Arquivo onde está escrito todo o código da calculadora
+-Arquivo onde está escrito todo o código da calculadora  
+-Utiliza *inputs* para obter informações do usuário (no caso, os números a serem calculados)  
+-Utiliza tanto operadores relacionais, quanto condicionais, para fazer a verificação tanto de erros (em um nível básico), quanto de operações matemáticas a serem utilizadas corretamente
 ### Modo de uso
 -Após baixar, certifique-se de colocar os dois arquivos no mesmo diretório (*.py* e *.sh*)  
 No seu terminal linux, vá até o diretório onde se encontra os arquivos baixados, com o comando "**cd** *diretório*"  
